@@ -19,6 +19,9 @@ Some notes:
 
 * ES2015's proxy objects would be ideal for this, but it's possible to implement quite well with ES5 getters. With getters, there are some limitations, because inside the lambda functions, views are not really the same thing as the orig. config objects, so inherited methods are not accessible. Maybe this could be improved.
 
+* For Python, see:
+    * [ProxyTypes](https://pypi.python.org/pypi/ProxyTypes/0.9)
+    * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
 
 ## Features / possibilities
 
