@@ -1,5 +1,7 @@
 # Ideas
 
+[![Join the chat at https://gitter.im/Klortho/config-one](https://badges.gitter.im/Klortho/config-one.svg)](https://gitter.im/Klortho/config-one?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The design pattern of cascading (overridable) heirarchical data shows up everywhere you look, but I've never encountered an implementation that gets it right. (That's not to say there isn't one!)
 
 ## Data model
